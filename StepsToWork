@@ -2,3 +2,4 @@ ng new OnlineBanking
 npm install --save @angular/material
 npm install --save @angular/platform-browser 
 npm install --save highcharts-angular
+npm install @ionic/angular@latest --save
