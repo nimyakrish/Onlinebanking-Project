@@ -104,3 +104,8 @@ VALUES ( 'roshni','user', 'roshni@123', 113 );
 INSERT INTO "PUBLIC"."LOGIN_TBL"
 ( "LOG_USER", "LOG_TYPE", "LOG_PASSWORD", "APP_ID" )
 VALUES ( 'poornima','admin', 'admin@123', 154 );
+
+
+INSERT INTO "PUBLIC"."LOGIN_TBL"
+( "USER_NAME", "PASSWORD", "USER_ID", "USER_TYPE" )
+VALUES ( 'roshni', 'Rosni@123',113 , 'user')
